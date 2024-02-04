@@ -12,7 +12,7 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          ref: "main"
+          ref: main
           fetch-depth: 0
           token: ${{ secrets.personal_pat }}
 
@@ -28,8 +28,8 @@ jobs:
 
       - name: Reset CI branch to match main branch
         run: |
-          git fetch origin "main"
-          git reset --hard origin/ "main"
+          git fetch origin main
+          git reset --hard origin/main
           git clean -fd
 
       - name: Configuring git credentials
@@ -41,7 +41,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: "3.11"
+          python-version: 3.11
 
       - name: Install dependencies
         run: |
@@ -69,5 +69,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           pr_title: "Update from CI"
           pr_body: "This is an automated PR to update contents"
-          source_branch: "ci-auto-update"
-          destination_branch: "main"
+          source_branch: ci-auto-update
+          destination_branch: main
