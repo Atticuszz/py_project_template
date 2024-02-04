@@ -22,9 +22,6 @@ jobs:
   update-readme:
 #    needs: tests
     uses: ./.github/workflows/update-readme.yml
-    with:
-      branch: "main"
-      ci-branch: "ci-auto-update"
     secrets:
       personal_pat: ${{ secrets.ATTICUS_PAT }}
 

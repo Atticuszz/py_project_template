@@ -1,13 +1,6 @@
 name: Update README and Create Pull Request
 on:
   workflow_call:
-    inputs:
-      branch:
-        required: true
-        type: string
-      ci-branch:
-        required: true
-        type: string
     secrets:
       personal_pat:
         required: true
@@ -19,19 +12,25 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          ref: ${{ inputs.branch }}
+          ref: "main"
           fetch-depth: 0
           token: ${{ secrets.personal_pat }}
 
-      - name: Checkout CI branch
+      - name: Checkout CI branch or create it if not exists
         run: |
           git fetch origin
-          if git branch --list ${{ inputs.ci-branch }}; then
-            git checkout ${{ inputs.ci-branch }}
+          if git branch --list -r | grep origin/ "ci-auto-update"; then
+            git checkout "ci-auto-update"
           else
-            git checkout -b ${{ inputs.ci-branch }}
+            git checkout -b "ci-auto-update"
+            git push --set-upstream origin "ci-auto-update"
           fi
-          git reset --hard origin/${{ inputs.branch }}
+
+      - name: Reset CI branch to match main branch
+        run: |
+          git fetch origin "main"
+          git reset --hard origin/ "main"
+          git clean -fd
 
       - name: Configuring git credentials
         run: |
@@ -70,5 +69,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           pr_title: "Update from CI"
           pr_body: "This is an automated PR to update contents"
-          source_branch: ${{ inputs.ci-branch }}
-          destination_branch: ${{ inputs.branch }}
+          source_branch: "ci-auto-update"
+          destination_branch: "main"
