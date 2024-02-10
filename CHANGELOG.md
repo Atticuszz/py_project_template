@@ -2,7 +2,22 @@
 
 
 
+## v0.0.2 (2024-02-10)
+
+### Fix
+
+* fix: add __version__ in init.py ([`66ffb95`](https://github.com/Atticuszz/py_project_template/commit/66ffb95cada867567c5c2fb9ab619fd0c81004c0))
+
+### Unknown
+
+* Merge remote-tracking branch &#39;origin/main&#39; ([`9ea9196`](https://github.com/Atticuszz/py_project_template/commit/9ea9196303961099bbd078d61566001e4d89fc3e))
+
+
 ## v0.0.1 (2024-02-10)
+
+### Chore
+
+* chore(release): bump version to v0.0.1 ([`faba61f`](https://github.com/Atticuszz/py_project_template/commit/faba61f5b57bfd9ce268a323aa40a92052e24d1f))
 
 ### Fix
 
