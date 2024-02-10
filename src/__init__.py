@@ -5,3 +5,5 @@
 @Date Created : 10/02/2024
 @Description  :
 """
+
+__version__ = "0.0.1"
