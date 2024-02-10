@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "py-project-template"
-version = "0.1.0"
+version = "0.0.1"
 description = ""
 authors = ["Atticuszz <1831768457@qq.com>"]
 readme = "README.md"
