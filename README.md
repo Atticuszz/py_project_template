@@ -47,19 +47,9 @@
 ### 2024-02-24 by Atticuszz - Ci workflows Update README.md
 - 🔨 [README.md](README.md)
 ### 2024-02-24 by Atticuszz - Ci workflows Update README.md
-- 🔨 [PythonImportHelper-v2-Completion.json](.vscode/PythonImportHelper-v2-Completion.json)
 - 🔨 [README.md](README.md)
-### 2024-02-24 by atticuszz - feat:direct push to main by update README.md ci
-- 🔨 [update-readme.yml](.github/workflows/update-readme.yml)
-- ✨ [.gitignore](.idea/.gitignore)
-- ✨ [GitLink.xml](.idea/GitLink.xml)
-- ✨ [Project_Default.xml](.idea/inspectionProfiles/Project_Default.xml)
-- ✨ [profiles_settings.xml](.idea/inspectionProfiles/profiles_settings.xml)
-- ✨ [misc.xml](.idea/misc.xml)
-- ✨ [modules.xml](.idea/modules.xml)
-- ✨ [py_project_template.iml](.idea/py_project_template.iml)
-- ✨ [vcs.xml](.idea/vcs.xml)
-- ✨ [PythonImportHelper-v2-Completion.json](.vscode/PythonImportHelper-v2-Completion.json)
+### 2024-02-24 by Atticuszz - Ci workflows Update README.md
+- 🔨 [PythonImportHelper-v2-Completion.json](.vscode/PythonImportHelper-v2-Completion.json)
 - 🔨 [README.md](README.md)
 ## Roadmap
 
