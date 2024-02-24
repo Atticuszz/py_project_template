@@ -22,6 +22,9 @@
   - [test_example.py](tests/test_example.py)
   - [conftest.py](tests/conftest.py)
 ## Modified
+### 2024-02-24 by Atticuszz - Ci workflows Update README.md
+- 🔨 [PythonImportHelper-v2-Completion.json](.vscode/PythonImportHelper-v2-Completion.json)
+- 🔨 [README.md](README.md)
 ### 2024-02-24 by atticuszz - feat:direct push to main by update README.md ci
 - 🔨 [update-readme.yml](.github/workflows/update-readme.yml)
 - ✨ [.gitignore](.idea/.gitignore)
@@ -49,9 +52,6 @@
 ### 2024-02-10 by github-actions - chore(release): bump version to v0.0.2
 - 🔨 [CHANGELOG.md](CHANGELOG.md)
 - 🔨 [pyproject.toml](pyproject.toml)
-- 🔨 [__init__.py](src/__init__.py)
-### 2024-02-10 by Atticuszz - fix: add __version__ in init.py
-- 🔨 [README.md](README.md)
 - 🔨 [__init__.py](src/__init__.py)
 ## Roadmap
 
