@@ -27,6 +27,8 @@
 ### 2024-02-24 by Atticuszz - Ci workflows Update README.md
 - 🔨 [README.md](README.md)
 ### 2024-02-24 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
+### 2024-02-24 by Atticuszz - Ci workflows Update README.md
 - 🔨 [PythonImportHelper-v2-Completion.json](.vscode/PythonImportHelper-v2-Completion.json)
 - 🔨 [README.md](README.md)
 ### 2024-02-24 by atticuszz - feat:direct push to main by update README.md ci
@@ -50,9 +52,6 @@
 - 🔨 [main.yml](.github/workflows/main.yml)
 ### 2024-02-12 by dependabot[bot] - ⬆ bump abatilo/actions-poetry from 2.4.0 to 3.0.0
 - 🔨 [main.yml](.github/workflows/main.yml)
-### 2024-02-12 by dependabot[bot] - ⬆ bump pre-commit from 3.6.0 to 3.6.1
-- 🔨 [poetry.lock](poetry.lock)
-- 🔨 [pyproject.toml](pyproject.toml)
 ## Roadmap
 
 
