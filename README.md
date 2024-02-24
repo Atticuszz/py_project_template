@@ -25,6 +25,8 @@
 ### 2024-02-24 by Atticuszz - Ci workflows Update README.md
 - 🔨 [README.md](README.md)
 ### 2024-02-24 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
+### 2024-02-24 by Atticuszz - Ci workflows Update README.md
 - 🔨 [PythonImportHelper-v2-Completion.json](.vscode/PythonImportHelper-v2-Completion.json)
 - 🔨 [README.md](README.md)
 ### 2024-02-24 by atticuszz - feat:direct push to main by update README.md ci
@@ -51,10 +53,6 @@
 ### 2024-02-12 by dependabot[bot] - ⬆ bump pre-commit from 3.6.0 to 3.6.1
 - 🔨 [poetry.lock](poetry.lock)
 - 🔨 [pyproject.toml](pyproject.toml)
-### 2024-02-10 by github-actions - chore(release): bump version to v0.0.2
-- 🔨 [CHANGELOG.md](CHANGELOG.md)
-- 🔨 [pyproject.toml](pyproject.toml)
-- 🔨 [__init__.py](src/__init__.py)
 ## Roadmap
 
 
