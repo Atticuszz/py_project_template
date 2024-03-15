@@ -22,6 +22,11 @@
   - [conftest.py](tests/conftest.py)
   - [test_example.py](tests/test_example.py)
 ## Modified
+### 2024-03-15 by dependabot[bot] - ⬆ bump pre-commit from 3.6.1 to 3.6.2
+- 🔨 [poetry.lock](poetry.lock)
+- 🔨 [pyproject.toml](pyproject.toml)
+### 2024-03-15 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
 ### 2024-03-11 by dependabot[bot] - ⬆ Bump pytest from 8.0.1 to 8.1.1
 - 🔨 [poetry.lock](poetry.lock)
 - 🔨 [pyproject.toml](pyproject.toml)
@@ -29,12 +34,6 @@
 - 🔨 [README.md](README.md)
 ### 2024-02-26 by Atticus Zhou - Update update-readme.yml
 - 🔨 [update-readme.yml](.github/workflows/update-readme.yml)
-### 2024-02-24 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
-### 2024-02-24 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
-### 2024-02-24 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
 ### 2024-02-24 by Atticuszz - Ci workflows Update README.md
 - 🔨 [README.md](README.md)
 ### 2024-02-24 by Atticuszz - Ci workflows Update README.md
