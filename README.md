@@ -22,6 +22,15 @@
   - **app/:**
   - [main.py](src/main.py)
 ## Modified
+### 2024-04-29 by atticuszz - chore: update pre commit hooks
+- ✨ [git_toolbox_prj.xml](.idea/git_toolbox_prj.xml)
+### 2024-04-29 by atticuszz - chore: update pre commit hooks
+- 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
+- 🗑️ PythonImportHelper-v2-Completion.json
+- 🔨 [poetry.lock](poetry.lock)
+- 🔨 [pyproject.toml](pyproject.toml)
+### 2024-04-26 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
 ### 2024-04-01 by pre-commit-ci[bot] - [pre-commit.ci] autoupdate
 - 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
 ### 2024-03-25 by dependabot[bot] - ⬆ Bump pre-commit from 3.6.2 to 3.7.0
@@ -41,12 +50,6 @@
 - 🔨 [README.md](README.md)
 ### 2024-02-26 by Atticus Zhou - Update update-readme.yml
 - 🔨 [update-readme.yml](.github/workflows/update-readme.yml)
-### 2024-02-24 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
-### 2024-02-24 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
-### 2024-02-24 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
 ## Roadmap
 
 
