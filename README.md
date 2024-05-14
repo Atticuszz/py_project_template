@@ -22,6 +22,11 @@
   - **app/:**
   - [main.py](src/main.py)
 ## Modified
+### 2024-05-13 by dependabot[bot] - ⬆ Bump pre-commit from 3.7.0 to 3.7.1
+- 🔨 [poetry.lock](poetry.lock)
+- 🔨 [pyproject.toml](pyproject.toml)
+### 2024-04-29 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
 ### 2024-04-29 by atticuszz - chore: update pre commit hooks
 - ✨ [git_toolbox_prj.xml](.idea/git_toolbox_prj.xml)
 ### 2024-04-29 by atticuszz - chore: update pre commit hooks
@@ -43,13 +48,6 @@
 - 🔨 [pyproject.toml](pyproject.toml)
 ### 2024-03-15 by Atticuszz - Ci workflows Update README.md
 - 🔨 [README.md](README.md)
-### 2024-03-11 by dependabot[bot] - ⬆ Bump pytest from 8.0.1 to 8.1.1
-- 🔨 [poetry.lock](poetry.lock)
-- 🔨 [pyproject.toml](pyproject.toml)
-### 2024-02-26 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
-### 2024-02-26 by Atticus Zhou - Update update-readme.yml
-- 🔨 [update-readme.yml](.github/workflows/update-readme.yml)
 ## Roadmap
 
 
