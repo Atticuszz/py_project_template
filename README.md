@@ -24,6 +24,10 @@
   - [utils.py](tests/utils.py)
   - [test_example.py](tests/test_example.py)
 ## Modified
+### 2024-05-24 by Atticus Zhou - Delete poetry.lock
+- 🗑️ poetry.lock
+### 2024-05-24 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
 ### 2024-05-24 by Atticus Zhou - Delete poetry_scripts.py
 - 🗑️ poetry_scripts.py
 ### 2024-05-24 by Atticuszz - Ci workflows Update README.md
@@ -57,13 +61,6 @@
 - 🔨 [pyproject.toml](pyproject.toml)
 ### 2024-04-29 by Atticuszz - Ci workflows Update README.md
 - 🔨 [README.md](README.md)
-### 2024-04-29 by atticuszz - chore: update pre commit hooks
-- ✨ [git_toolbox_prj.xml](.idea/git_toolbox_prj.xml)
-### 2024-04-29 by atticuszz - chore: update pre commit hooks
-- 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
-- 🗑️ PythonImportHelper-v2-Completion.json
-- 🔨 [poetry.lock](poetry.lock)
-- 🔨 [pyproject.toml](pyproject.toml)
 ## Roadmap
 
 
