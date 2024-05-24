@@ -24,6 +24,8 @@
   - [utils.py](tests/utils.py)
   - [test_example.py](tests/test_example.py)
 ## Modified
+### 2024-05-24 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
 ### 2024-05-24 by Atticus Zhou - Update pre-commit.sh
 - 🔨 [pre-commit.sh](scripts/pre-commit.sh)
 ### 2024-05-24 by Atticuszz - Ci workflows Update README.md
