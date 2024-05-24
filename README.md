@@ -24,6 +24,10 @@
   - [utils.py](tests/utils.py)
   - [test_example.py](tests/test_example.py)
 ## Modified
+### 2024-05-24 by Atticus Zhou - Delete poetry_scripts.py
+- 🗑️ poetry_scripts.py
+### 2024-05-24 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
 ### 2024-05-24 by Atticuszz - Ci workflows Update README.md
 - 🔨 [README.md](README.md)
 ### 2024-05-24 by Atticus Zhou - Update pre-commit.sh
@@ -60,8 +64,6 @@
 - 🗑️ PythonImportHelper-v2-Completion.json
 - 🔨 [poetry.lock](poetry.lock)
 - 🔨 [pyproject.toml](pyproject.toml)
-### 2024-04-26 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
 ## Roadmap
 
 
