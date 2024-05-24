@@ -17,11 +17,17 @@
 - **src/:**
   - [main.py](src/main.py)
   - **app/:**
+- **scripts/:**
+  - [pre-commit.sh](scripts/pre-commit.sh)
 - **tests/:**
   - [conftest.py](tests/conftest.py)
   - [utils.py](tests/utils.py)
   - [test_example.py](tests/test_example.py)
 ## Modified
+### 2024-05-24 by Atticus Zhou - Create pre-commit.sh
+- ✨ [pre-commit.sh](scripts/pre-commit.sh)
+### 2024-05-24 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
 ### 2024-05-24 by Atticus Zhou - Delete .idea directory
 - 🗑️ .gitignore
 - 🗑️ GitLink.xml
@@ -55,8 +61,6 @@
 ### 2024-03-25 by dependabot[bot] - ⬆ Bump pre-commit from 3.6.2 to 3.7.0
 - 🔨 [poetry.lock](poetry.lock)
 - 🔨 [pyproject.toml](pyproject.toml)
-### 2024-03-15 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
 ## Roadmap
 
 
