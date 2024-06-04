@@ -24,6 +24,10 @@
   - [utils.py](tests/utils.py)
   - [test_example.py](tests/test_example.py)
 ## Modified
+### 2024-06-03 by pre-commit-ci[bot] - [pre-commit.ci] autoupdate
+- 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
+### 2024-05-24 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
 ### 2024-05-24 by Atticus Zhou - Delete poetry.lock
 - 🗑️ poetry.lock
 ### 2024-05-24 by Atticuszz - Ci workflows Update README.md
@@ -54,13 +58,6 @@
 - 🗑️ vcs.xml
 ### 2024-05-24 by Atticus Zhou - Update .pre-commit-config.yaml
 - 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
-### 2024-05-14 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
-### 2024-05-13 by dependabot[bot] - ⬆ Bump pre-commit from 3.7.0 to 3.7.1
-- 🔨 [poetry.lock](poetry.lock)
-- 🔨 [pyproject.toml](pyproject.toml)
-### 2024-04-29 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
 ## Roadmap
 
 
