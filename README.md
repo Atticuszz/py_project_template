@@ -24,6 +24,10 @@
   - [utils.py](tests/utils.py)
   - [test_example.py](tests/test_example.py)
 ## Modified
+### 2024-07-01 by pre-commit-ci[bot] - [pre-commit.ci] autoupdate
+- 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
+### 2024-06-04 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
 ### 2024-06-03 by pre-commit-ci[bot] - [pre-commit.ci] autoupdate
 - 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
 ### 2024-05-24 by Atticuszz - Ci workflows Update README.md
@@ -44,20 +48,6 @@
 - 🔨 [README.md](README.md)
 ### 2024-05-24 by Atticus Zhou - Create pre-commit.sh
 - ✨ [pre-commit.sh](scripts/pre-commit.sh)
-### 2024-05-24 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
-### 2024-05-24 by Atticus Zhou - Delete .idea directory
-- 🗑️ .gitignore
-- 🗑️ GitLink.xml
-- 🗑️ git_toolbox_prj.xml
-- 🗑️ Project_Default.xml
-- 🗑️ profiles_settings.xml
-- 🗑️ misc.xml
-- 🗑️ modules.xml
-- 🗑️ py_project_template.iml
-- 🗑️ vcs.xml
-### 2024-05-24 by Atticus Zhou - Update .pre-commit-config.yaml
-- 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
 ## Roadmap
 
 
