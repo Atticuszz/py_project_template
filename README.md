@@ -14,16 +14,20 @@
 
 
 ## Navigation
-- **src/:**
-  - [main.py](src/main.py)
-  - **app/:**
+- **tests/:**
+  - [utils.py](tests/utils.py)
+  - [conftest.py](tests/conftest.py)
+  - [test_example.py](tests/test_example.py)
 - **scripts/:**
   - [pre-commit.sh](scripts/pre-commit.sh)
-- **tests/:**
-  - [conftest.py](tests/conftest.py)
-  - [utils.py](tests/utils.py)
-  - [test_example.py](tests/test_example.py)
+- **src/:**
+  - **app/:**
+  - [main.py](src/main.py)
 ## Modified
+### 2024-08-05 by pre-commit-ci[bot] - [pre-commit.ci] autoupdate
+- 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
+### 2024-07-02 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
 ### 2024-07-01 by pre-commit-ci[bot] - [pre-commit.ci] autoupdate
 - 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
 ### 2024-06-04 by Atticuszz - Ci workflows Update README.md
@@ -42,12 +46,6 @@
 - 🔨 [README.md](README.md)
 ### 2024-05-24 by Atticuszz - Ci workflows Update README.md
 - 🔨 [README.md](README.md)
-### 2024-05-24 by Atticus Zhou - Update pre-commit.sh
-- 🔨 [pre-commit.sh](scripts/pre-commit.sh)
-### 2024-05-24 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
-### 2024-05-24 by Atticus Zhou - Create pre-commit.sh
-- ✨ [pre-commit.sh](scripts/pre-commit.sh)
 ## Roadmap
 
 
