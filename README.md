@@ -24,6 +24,10 @@
   - **app/:**
   - [main.py](src/main.py)
 ## Modified
+### 2024-09-02 by pre-commit-ci[bot] - [pre-commit.ci] autoupdate
+- 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
+### 2024-08-10 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
 ### 2024-08-05 by pre-commit-ci[bot] - [pre-commit.ci] autoupdate
 - 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
 ### 2024-07-02 by Atticuszz - Ci workflows Update README.md
@@ -38,12 +42,6 @@
 - 🔨 [README.md](README.md)
 ### 2024-05-24 by Atticus Zhou - Delete poetry.lock
 - 🗑️ poetry.lock
-### 2024-05-24 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
-### 2024-05-24 by Atticus Zhou - Delete poetry_scripts.py
-- 🗑️ poetry_scripts.py
-### 2024-05-24 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
 ### 2024-05-24 by Atticuszz - Ci workflows Update README.md
 - 🔨 [README.md](README.md)
 ## Roadmap
