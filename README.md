@@ -14,16 +14,20 @@
 
 
 ## Navigation
-- **tests/:**
-  - [utils.py](tests/utils.py)
-  - [conftest.py](tests/conftest.py)
-  - [test_example.py](tests/test_example.py)
-- **scripts/:**
-  - [pre-commit.sh](scripts/pre-commit.sh)
 - **src/:**
   - **app/:**
   - [main.py](src/main.py)
+- **tests/:**
+  - [test_example.py](tests/test_example.py)
+  - [conftest.py](tests/conftest.py)
+  - [utils.py](tests/utils.py)
+- **scripts/:**
+  - [pre-commit.sh](scripts/pre-commit.sh)
 ## Modified
+### 2024-10-07 by pre-commit-ci[bot] - [pre-commit.ci] autoupdate
+- 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
+### 2024-09-02 by Atticuszz - Ci workflows Update README.md
+- 🔨 [README.md](README.md)
 ### 2024-09-02 by pre-commit-ci[bot] - [pre-commit.ci] autoupdate
 - 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
 ### 2024-08-10 by Atticuszz - Ci workflows Update README.md
@@ -38,12 +42,6 @@
 - 🔨 [README.md](README.md)
 ### 2024-06-03 by pre-commit-ci[bot] - [pre-commit.ci] autoupdate
 - 🔨 [.pre-commit-config.yaml](.pre-commit-config.yaml)
-### 2024-05-24 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
-### 2024-05-24 by Atticus Zhou - Delete poetry.lock
-- 🗑️ poetry.lock
-### 2024-05-24 by Atticuszz - Ci workflows Update README.md
-- 🔨 [README.md](README.md)
 ## Roadmap
 
 
